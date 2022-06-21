@@ -1,0 +1,30 @@
+.cart_table{
+    min-width: 400px;
+    font-size:14px;
+}
+
+.cart_thead{
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    background-color: #f8f9fa !important;
+}
+
+.cart_icon{
+    text-decoration:none;
+    color:#868e96 !important;
+}
+
+.stripe-button-el{
+    width :27% !important;
+    /* display: block !important; */
+    padding: 2px;
+    margin-bottom: 4px;
+    background-color:#868e96 !important;
+}
+
+.stripe-button-el span {
+    height: 36px !important;
+    font-family: 'Roboto',sans-serif !important;
+    font-size: 16px !important;
+}
